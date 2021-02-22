@@ -9,6 +9,7 @@ body{
 nav{
     background-color: powderblue;
     color: black;
+    padding-left: 15px;
 }
 .btn{
    color: #ffffff;
