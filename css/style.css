@@ -1,0 +1,48 @@
+#logo{
+    width: 150px;
+    height: 150px;
+}
+body{
+   margin-left: 60px;
+   margin-right:60px;
+}
+nav{
+    background-color: powderblue;
+    color: black;
+}
+.btn{
+   color: #ffffff;
+}
+.blackpanther{
+    width: 70px;
+    height: 100px;
+}
+.joker{
+    width: 70px;
+    height: 100px;
+}
+button{
+    width: fit-content;
+}
+label{
+    padding: 10px;
+}
+
+.btnb{
+    color: #ffffff;
+    width: 100%;
+    display: inline-block;
+    border-radius: 5px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+ }
+ .btnr{
+    color: #ffffff;
+    width: 100%;
+    display: inline-block;
+    border-radius:5px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+ }
